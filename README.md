@@ -34,12 +34,4 @@ I developed this project as part of my BCA final-year submission. It was created
 10. Create a new database named: event_db.
 11. Click "Import", then select and import the file event_db.sql from the SQL folder.
 12. In your browser, go to: http://localhost/Event_Management_System.
-
-# Login Details 🔐
-**Admin Panel**
-* Username:  admin
-* Password:  admin123
-
-# Author
-This project was created by Nikita A. Lohar
    
